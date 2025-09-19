@@ -3,9 +3,9 @@ from fastapi.responses import JSONResponse
 import os
 import shutil
 
-from kmrl_ocr.ocr import extract_blocks
-from kmrl_ocr.utils import pdf_to_images, extract_text_from_pdf
-from kmrl_ocr.exporter import save_results
+from src.kmrl_ocr.ocr import extract_blocks
+from src.kmrl_ocr.utils import pdf_to_images, extract_text_from_pdf
+from src.kmrl_ocr.exporter import save_results
 
 app = FastAPI(title="KMRL OCR API", description="Single endpoint OCR service")
 
