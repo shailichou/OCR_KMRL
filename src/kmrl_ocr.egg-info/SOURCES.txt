@@ -1,0 +1,11 @@
+setup.py
+src/kmrl_ocr/__init__.py
+src/kmrl_ocr/main.py
+src/kmrl_ocr/ocr.py
+src/kmrl_ocr/preprocess.py
+src/kmrl_ocr/utils.py
+src/kmrl_ocr.egg-info/PKG-INFO
+src/kmrl_ocr.egg-info/SOURCES.txt
+src/kmrl_ocr.egg-info/dependency_links.txt
+src/kmrl_ocr.egg-info/top_level.txt
+tests/test_ocr.py

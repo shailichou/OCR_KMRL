@@ -1,0 +1,6 @@
+__pychache__
+.pytest_cache
+.vscode
+data
+output
+venv
